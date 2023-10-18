@@ -1,1 +1,37 @@
-Brenda Ramos dos Santos Oliveira
+Aluna:Brenda Ramos dos Santos Oliveira
+1. Commit:
+   Um commit é uma ação que registra uma nova versão das alterações em um repositório Git. Cada commit possui uma mensagem que descreve as alterações feitas. Os commits são usados para rastrear o histórico de alterações.
+
+2. Branch:
+   Um branch é uma ramificação do código-fonte principal (geralmente chamado de "branch principal" ou "master") que permite que você trabalhe em novos recursos ou correções de bugs sem afetar o código principal. Isso ajuda a organizar o trabalho colaborativo e a manter diferentes linhas de desenvolvimento separadas.
+
+3. Merge:
+   O merge é o processo de combinar as alterações de um branch em outro. Geralmente, você mescla um branch de recurso ou de desenvolvimento em um branch principal quando as alterações estão prontas para serem incorporadas ao código principal.
+
+4. MainLine:
+   Embora não seja um comando, o termo "MainLine" geralmente se refere ao branch principal de um repositório Git, onde o código estável e pronto para produção é mantido.
+
+5. Clone:
+   Clonar é o ato de criar uma cópia completa de um repositório Git em sua máquina local. Isso permite que você trabalhe nos arquivos do repositório e contribua para o projeto.
+
+6. Push:
+   Push é o ato de enviar commits locais para um repositório remoto no GitHub. Isso atualiza o repositório remoto com suas alterações, tornando-as acessíveis para outras pessoas colaborarem.
+
+7. Pull:
+   Pull é o ato de obter as alterações mais recentes de um repositório remoto e mesclá-las em seu repositório local. Isso é feito para manter seu repositório local atualizado com as últimas alterações feitas por outros colaboradores.
+
+8. Add:
+   Adicionar é o primeiro passo para preparar alterações para um commit. Você adiciona arquivos específicos ou alterações a serem registradas no próximo commit.
+
+9. Staged:
+   Arquivos "staged" são aqueles que foram adicionados para serem incluídos no próximo commit. Isso permite que você selecione e organize as alterações que deseja incluir no commit.
+
+10. Version:
+    Em Git, não há um comando "version" específico, mas a noção de "version" se refere a cada commit no histórico do repositório. Cada commit representa uma versão específica do código com suas próprias alterações.
+
+11. Repository:
+    Um repositório é um espaço onde todos os arquivos, histórico de commits e ramificações de um projeto são armazenados. Ele é usado para rastrear e gerenciar o código-fonte e é geralmente hospedado no GitHub para colaboração entre desenvolvedores.
+
+
+
+
